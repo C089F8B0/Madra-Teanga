@@ -1,0 +1,16 @@
+[
+  {
+    "irish": ["Dia", "dhaoibh", "a", "chairde"],
+    "literals": ["God", "to-you(pl)", "oh", "friends"],
+    "english": "Hello friends!",
+    "options": ["Hello friends!", "Goodbye friends!", "Nice weather!"],
+    "audio-asset": "audio/hello_friends.mp3"
+  },
+  {
+    "irish": ["Tá", "mé", "ag", "foghlaim"],
+    "literals": ["Am", "I", "at", "learning"],
+    "english": "I am learning.",
+    "options": ["I am running.", "I am learning.", "I am sleeping."],
+    "audio-asset": "audio/learning.mp3"
+  }
+]
