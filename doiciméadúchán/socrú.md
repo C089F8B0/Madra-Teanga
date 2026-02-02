@@ -38,6 +38,10 @@ sudo xcode-select -s /Applications/Xcode.app/Contents/Developer
 
 ### Suiteáil CocoaPods
 
+```bash
+gem install cocoapods
+```
+
 Má tá tú ag úsáid `ruby` agus `gem` an córais, beidh ort é sin a rith le sudo. Is fearr `ruby` agus `gem` a shuiteáil le brew.
 
 Áfach, má shuiteálann tú iad le brew, beidh ort na rudaí seo a leanas a chur le d'athróg PATH:
